@@ -5,7 +5,21 @@
       "title": "Flipkart Suppprt",
       "imageURL": "",
       "orderId": "OD1234567890",
-      "latestMessageTimestamp": 1632131305362
+      "latestMessageTimestamp": 1632131305362,
+      "messageList": [
+        {
+          "messageId": "msg1",
+          "message": "Hi, what can I help you with?",
+          "timestamp": 1632131305362,
+          "sender": "BOT"
+        },
+        {
+          "messageId": "msg2",
+          "message": "Need help with this order",
+          "timestamp": 1632131305462,
+          "sender": "USER"
+        }
+      ]
     }
   ]
 }
