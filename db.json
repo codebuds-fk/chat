@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "chats": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Flipkart Suppprt",
+      "imageURL": "",
+      "orderId": "OD1234567890",
+      "latestMessageTimestamp": 1632131305362
     }
-  ],
-  "profile": {
-    "name": "Chat"
-  }
+  ]
 }
