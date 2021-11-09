@@ -239,13 +239,13 @@
   "chatAction": {
                     "screenType": "multiWidgetPage",
                     "type": "NAVIGATION",
-                    "originalUrl": "http://www.flipkart.com/exchange/assessment?questionId=11673&contextId=d27d6f67-e0a1-4c1d-81bb-b3132b846204&productId=MOBGF4895YRNAHFZ&listingId=LSTMOBGF4895YRNAHFZ3XABXU&entryValue=QUESTION_11673",
-                    "url": "http://www.flipkart.com/exchange/assessment?questionId=11673&contextId=d27d6f67-e0a1-4c1d-81bb-b3132b846204&productId=MOBGF4895YRNAHFZ&listingId=LSTMOBGF4895YRNAHFZ3XABXU&entryValue=QUESTION_11673",
+                    "originalUrl": "http://www.flipkart.com/exchange/assessment?questionId=11673&contextId=435de2fe-22de-46c8-8cf4-3ccf87c4b643&productId=MOBGF4895YRNAHFZ&listingId=LSTMOBGF4895YRNAHFZ3XABXU&entryValue=QUESTION_11673",
+                    "url": "http://www.flipkart.com/exchange/assessment?questionId=11673&contextId=435de2fe-22de-46c8-8cf4-3ccf87c4b643&productId=MOBGF4895YRNAHFZ&listingId=LSTMOBGF4895YRNAHFZ3XABXU&entryValue=QUESTION_11673",
                     "params": {
                         "valid": true,
                         "killCurrentPage": true,
                         "screenName": "EXCHANGE",
-                        "url": "http://www.flipkart.com/exchange/assessment?questionId=11673&contextId=d27d6f67-e0a1-4c1d-81bb-b3132b846204&productId=MOBGF4895YRNAHFZ&listingId=LSTMOBGF4895YRNAHFZ3XABXU&entryValue=QUESTION_11673",
+                        "url": "http://www.flipkart.com/exchange/assessment?questionId=11673&contextId=435de2fe-22de-46c8-8cf4-3ccf87c4b643&productId=MOBGF4895YRNAHFZ&listingId=LSTMOBGF4895YRNAHFZ3XABXU&entryValue=QUESTION_11673",
                         "urlMeta": {
                             "shouldOverrideScreenName": "true",
                             "shouldOverrideScreenType": "true",
